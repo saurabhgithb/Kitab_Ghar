@@ -51,13 +51,6 @@ Key steps included:
 
 10. Wishlist and Ratings
 
-### Improvement:
-
-Moving forward, potential areas for improvement in Kitab Ghar may include:
-- Enhancing user interface elements to further streamline the shopping experience.
-- Implementing additional features such as user reviews and recommendations to enhance user engagement.
-- Conducting thorough testing to identify and resolve any potential issues or bugs in the application.
-
 ## 📚 Learnings:
 
 - Learned to use the external libraries for authentication such as Firebase Authentication.
@@ -67,9 +60,10 @@ Moving forward, potential areas for improvement in Kitab Ghar may include:
 - Improved troubleshooting skills through identifying and resolving various issues during development.
 
 ## ✨ Improvement:
-- The UI of the application could be improved to great extent.
-- The application take long time to load which is not good and can be enhanced using lazy loading in react.
-- Overall user experience can be optimized.
+Moving forward, potential areas for improvement in Kitab Ghar may include:
+- Enhancing user interface elements.
+- Reducing load time of the application.
+- Implementing additional features such as user reviews and recommendations.
 
 ## 🚦 Running the Project:
 To run Kitab Ghar locally:
