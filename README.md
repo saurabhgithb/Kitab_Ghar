@@ -143,12 +143,12 @@ It should look like this and is given by firebase:
 ## 📸 Video or Image:
 
 ### Video
-- [Checkout Process](https://drive.google.com/file/d/1xTVzicKNKWdY-5SQKNaIthcQgCOQ-XMn/view?usp=sharing){:target="_blank"}
-- [Admin Dashboard](https://drive.google.com/file/d/1b2-5ukIPJFYfIicXST-BwZPRGeg2rJWb/view?usp=sharing){:target="_blank"}
-- [Home/Search/Cart/Product](https://drive.google.com/file/d/1wdtYzb7MmPnlQPD_7BWqMDVsIMzzK0AO/view?usp=sharing){:target="_blank"}
-- [Search and Filtering](https://drive.google.com/file/d/1eCqY9JYu9_o0GcJzD3y2gV0dqr4eDGok/view?usp=sharing){:target="_blank"}
-- [User Signin](https://drive.google.com/file/d/1vpxxiB3fd6myDAJ2hxEon8R8l7W73imW/view?usp=sharing){:target="_blank"}
-- [User Signup](https://drive.google.com/file/d/1frNXmvvvoLjdCw_pc_khrAW695NTI5qd/view?usp=sharing){:target="_blank"}
+- <a href="https://drive.google.com/file/d/1xTVzicKNKWdY-5SQKNaIthcQgCOQ-XMn/view?usp=sharing" target="_blank">Checkout Process</a>
+- <a href="https://drive.google.com/file/d/1b2-5ukIPJFYfIicXST-BwZPRGeg2rJWb/view?usp=sharing" target="_blank">Admin Dashboard</a>
+- <a href="https://drive.google.com/file/d/1wdtYzb7MmPnlQPD_7BWqMDVsIMzzK0AO/view?usp=sharing" target="_blank">Home/Search/Cart/Product</a>
+- <a href="https://drive.google.com/file/d/1eCqY9JYu9_o0GcJzD3y2gV0dqr4eDGok/view?usp=sharing" target="_blank">Search and Filtering</a>
+- <a href="https://drive.google.com/file/d/1vpxxiB3fd6myDAJ2hxEon8R8l7W73imW/view?usp=sharing" target="_blank">User Signin</a>
+- <a href="https://drive.google.com/file/d/1frNXmvvvoLjdCw_pc_khrAW695NTI5qd/view?usp=sharing" target="_blank">User Signup</a>
 
 ### Image
 
